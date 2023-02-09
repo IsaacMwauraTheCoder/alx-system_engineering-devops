@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 705 7-everybody
+chmod ogu +x hello
